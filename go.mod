@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.13.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/cobra v1.5.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.6
 	github.com/spf13/viper v1.12.0
 	github.com/syncthing/syncthing v1.20.2
 	go.uber.org/zap v1.21.0
