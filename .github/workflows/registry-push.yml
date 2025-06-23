@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Load container artifact
-        uses: actions/download-artifact@fb598a63ae348fa914e94cd0ff38f362e927b741
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
         with:
           name: ${{ inputs.artifact-name }}
           path: /tmp
