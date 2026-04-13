@@ -32,11 +32,12 @@
         },
         "ansible-parallel": {
             "hashes": [
-                "sha256:2dcaeb0aed4cca443de65d1f75dff39f6fee5cf0b0a4430d2016669a05a309e1",
-                "sha256:9029468568f3c55b7afc19234083aebb92e6459ba0cefa65a3f4f6e8724d0772"
+                "sha256:17c11398285d0711880d0ac8584ee16b25d2e80a5274b6aafa7facf99ae5853b",
+                "sha256:9eb6c201d7163afdfb886f6c2c69bf01bdfbbc6c463bae748a1c59bc4590c84f"
             ],
             "index": "pypi",
-            "version": "==2021.1.22"
+            "markers": "python_version >= '3.7'",
+            "version": "==2023.7.26"
         },
         "cachetools": {
             "hashes": [
